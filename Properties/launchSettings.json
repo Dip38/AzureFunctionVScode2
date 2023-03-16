@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "AzureFunctionVScode2": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7230",
+      "launchBrowser": false
+    }
+  }
+}
